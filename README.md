@@ -4,8 +4,39 @@ TA-Lib x64; 64-bit ta-lib; Download;
 
 Already compiled TA-Lib for 64 bit, you can just download and use it. 
 
+-----------------------------------------
+--- Notes 21080610 -- START
+-----------------------------------------
+
+	1- Download "ta-lib x64.zip" from my github account "https://github.com/afnhsn/TA-Lib_x64".
+		unzip file "ta-lib x64.zip"
+
+	2- Copy "ta-lib" files under C:\
+		"C:\ta-lib"
+
+	3- Install C++ Build Tools
+		"en_visual_cpp_build_tools_2015_update_3_x86_x64_8923157.exe"
+
+	4- Open Anaconda Prompt
+		
+		4.1 activate tensorflow
+		4.2 (tensorflow) C:\Users\Administrator>pip install ta-lib
+	
+
+-----------------------------------------
+--- Notes 21080610 -- END
+-----------------------------------------
 
 
+
+-----------------*******************------------------------------*************************----------------------***********************-------------
+
+	
+
+-----------------------------------------
+---	OLD notes --START
+-----------------------------------------
+	
 I couldn’t find 64 bit “TA-Lib” library. I wanted to use it in 64 bit Python.  But I was getting the error below:
  ```
 Creating library build\temp.win-amd64-3.5\Release\talib\common.cp35-win_amd64.lib and object build\temp.win-amd64-3.5\Release\talib\common.cp35-win_amd64.exp
