@@ -1,5 +1,5 @@
-# TA-Lib x64 Download
-TA-Lib x64; 64-bit ta-lib; Download;
+# TA-Lib x64 Download - for windows
+TA-Lib x64; 64-bit ta-lib; Download; windows;
 
 
 Already compiled TA-Lib for 64 bit, you can just download and use it. 
